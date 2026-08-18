@@ -4,6 +4,10 @@ A Python resume builder with a desktop GUI, a command-line tool, and a
 library core — 4 professional templates, save/load profiles as JSON,
 PDF + ATS-friendly plain-text export, and a built-in resume quality checker.
 
+## Output
+
+![Output Screenshot](./Screenshot.png)
+
 ## Features
 
 - **4 templates** — Modern (colored header), Classic (traditional/ATS-safe),
