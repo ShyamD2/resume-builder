@@ -1,0 +1,139 @@
+{
+  "personal": {
+    "full_name": "Alex Morgan",
+    "title": "Senior Software Engineer",
+    "email": "alex.morgan@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "linkedin": "linkedin.com/in/alexmorgan",
+    "website": "alexmorgan.dev",
+    "github": "github.com/alexmorgan",
+    "photo_path": ""
+  },
+  "summary": "Results-driven software engineer with 7+ years building scalable web applications and distributed systems. Proven track record leading cross-functional teams to ship high-impact products used by millions of users. Passionate about clean architecture, mentorship, and developer tooling.",
+  "experience": [
+    {
+      "company": "Nimbus Cloud Systems",
+      "role": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Jan 2022",
+      "end_date": "Present",
+      "bullets": [
+        "Led migration of monolithic backend to microservices, reducing deployment time by 65%",
+        "Designed and implemented a real-time analytics pipeline processing 2M+ events/day",
+        "Mentored 4 junior engineers; established code review guidelines adopted org-wide",
+        "Reduced infrastructure costs by 30% through autoscaling and resource optimization"
+      ]
+    },
+    {
+      "company": "BrightPath Technologies",
+      "role": "Software Engineer",
+      "location": "Austin, TX",
+      "start_date": "Jun 2019",
+      "end_date": "Dec 2021",
+      "bullets": [
+        "Built customer-facing dashboard used by 50,000+ monthly active users",
+        "Improved API response times by 40% through query optimization and caching",
+        "Collaborated with product and design to launch 3 major feature releases"
+      ]
+    },
+    {
+      "company": "StartUp Labs",
+      "role": "Junior Developer",
+      "location": "Austin, TX",
+      "start_date": "Jul 2017",
+      "end_date": "May 2019",
+      "bullets": [
+        "Developed and maintained RESTful APIs using Python and Django",
+        "Wrote automated test suites, increasing code coverage from 45% to 85%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas at Austin",
+      "degree": "B.S.",
+      "field_of_study": "Computer Science",
+      "location": "Austin, TX",
+      "start_date": "2013",
+      "end_date": "2017",
+      "gpa": "3.8/4.0",
+      "bullets": [
+        "Dean's List, 6 semesters",
+        "President, Computer Science Society"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Frameworks",
+      "items": [
+        "React",
+        "Django",
+        "FastAPI",
+        "Node.js"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    {
+      "category": "Practices",
+      "items": [
+        "CI/CD",
+        "Agile/Scrum",
+        "TDD",
+        "System Design"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "OpenMetrics",
+      "description": "Open-source real-time metrics dashboard with plugin architecture",
+      "tech_stack": "React, Node.js, WebSocket, InfluxDB",
+      "link": "github.com/alexmorgan/openmetrics",
+      "bullets": [
+        "1,200+ GitHub stars",
+        "Used by 200+ organizations"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect – Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "credential_id": "AWS-PSA-88291"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Professional working proficiency"
+    }
+  ],
+  "template": "Modern",
+  "accent_color": "#2563EB"
+}
